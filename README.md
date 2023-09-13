@@ -1,1 +1,1 @@
-# tennis-ace
+In this project, I created a linear regression model that predicts the outcome for tennis players based on their playing habits. By analyzing and modelling the Association of Tennis Professionals (ATP) data, I’ve determined what it takes to be one of the best tennis players in the world.
